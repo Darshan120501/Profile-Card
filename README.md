@@ -1,6 +1,5 @@
 # profile_card
-
-A new Flutter application.
+![Screenshot_1600070604](https://user-images.githubusercontent.com/63286192/93059895-fede6c80-f68e-11ea-891f-dfe617596d58.png)
 
 ## Getting Started
 
